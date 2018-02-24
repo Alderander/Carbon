@@ -1,0 +1,6 @@
+name: Carbon
+description: A simple API extension for DateTime.
+version: 1.22.1
+antigen: Carbon
+php: [5.6, 7.0, 7.1, 7.2]
+authors: [JackNoordhuis]
